@@ -7,7 +7,7 @@ export default function Hello() {
       <div className="Hello">
         <Link to="/Photo">
           <button type="button">
-            <span role="img" aria-label="books">
+            <span role="img" aria-label="camera">
               📸
             </span>
           </button>
